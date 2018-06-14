@@ -11,6 +11,9 @@ print(second_string)
 print(first_number)
 print(second_number)
 print(first_and_second_multiplied)
+print(first_and_second_multiplied)
+print(first_and_second_multiplied)
+print(first_and_second_multiplied)
 
 #Need to convert numbers to print them with strings
 print(second_string + " " + str(second_number))
